@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6BE88459-8E74-6C09-68F3-B171482FF605}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MicrowaveOn.cs">
+    <Files>
+      <File FileName="Assets/Scripts/OpenItem.cs" Line="6" Column="39" />
+      <File FileName="Assets/Scripts/MicrowaveOn.cs" Line="10" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
