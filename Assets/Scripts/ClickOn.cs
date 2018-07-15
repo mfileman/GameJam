@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ClickOn : MonoBehaviour {
-    public GameObject Microwave;
-    public SpriteRenderer onImage;
 
+    public SpriteRenderer onImage;
 
     private void OnValidate()
     {
