@@ -15,6 +15,7 @@ public class Inventory : MonoBehaviour
             if (inventory[i] == null)
             {
                 inventory[i] = gameObject;
+                break;
 
             }
         }
